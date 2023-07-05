@@ -1,0 +1,3 @@
+C:/Users/sasha/Documents/GitHub/programming_practice/Task 7/cmake-build-debug/CMakeFiles/Task_7.dir
+C:/Users/sasha/Documents/GitHub/programming_practice/Task 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sasha/Documents/GitHub/programming_practice/Task 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
